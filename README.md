@@ -1,4 +1,4 @@
-# Landing Page Project
+# Landing Page Project By Omar Sanjaq
 
 ## Description
 
@@ -13,6 +13,5 @@ To get started with the project:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/landing-page-project.git
+   git clone https://github.com/OmarSanjaq/omar-landing-udacity
    cd landing-page-project
-   ```
